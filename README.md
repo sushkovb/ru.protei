@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/glyph-neue/344/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/max/1400/1*J8sjpKQJswCKiPUYVefbgQ.jpeg" title="JUnit 5" alt="JUnit 5" width="70" height="40"/>&nbsp;
   <img src="https://images.opencollective.com/allure-report/f14e715/logo/256.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
-  <a href="https://selenide.org/"><img src="/images/Selenide.svg" width="40" height="40"  alt="Selenide"/></a>
+  <a href='https://svgshare.com/s/opt' ><img src='https://svgshare.com/i/opt.svg' title='selenide' width="40" height="40"/></a>
   </p>
 
  В данном проекте автотесты написаны на <code>Java</code> с использованием <code>Selenide</code> для UI-тестов.
