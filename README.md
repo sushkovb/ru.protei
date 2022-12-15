@@ -51,7 +51,7 @@ gradle clean test
 ### Формирование отчета Allure
 
 ```
- ./gradlew allureServe
+./gradlew allureServe
 ```
 
 
