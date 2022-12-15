@@ -24,7 +24,6 @@ public class FormTest {
     @BeforeAll
     static void setUp() {
         Configuration.browserSize = "1920x1080";
-
     }
 
     @Test
